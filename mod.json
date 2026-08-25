@@ -1,0 +1,25 @@
+{
+    "geode": "5.9.0",
+    "gd": {
+        "win": "2.2081",
+        "mac": "2.2081"
+    },
+    "id": "proplat.hide-icon",
+    "name": "Hide icon",
+    "version": "v1.0.0",
+    "developer": "ProPlat",
+    "description": "Allows you to hide your icon at any time.",
+    "tags": [
+        "gameplay",
+        "enhancement",
+        "offline"
+    ],
+    "settings": {
+        "rewind-key": {
+            "type": "keybind",
+            "name": "Hide Icon key",
+            "description": "Key to use for hiding you icon.",
+            "default": "C"
+		}
+    }
+}
